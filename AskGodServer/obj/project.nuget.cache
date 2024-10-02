@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9eOydVMb/rQcdl40SfNYWWYtU54QAvXmdn0LWhGVrTGUTfqoVGWCKo+Fj3NkRG7iF1Q9egw/9esNzIvINUjFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabou\\Desktop\\Documents\\cegep\\Session 4\\Prog Reseaux\\ESC final\\4a4-esc-askgod-g-bonjour\\AskGodServer\\AskGodServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabou\\.nuget\\packages\\heyes.getopt\\1.0.9\\heyes.getopt.1.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

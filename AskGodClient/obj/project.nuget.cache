@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKtGjC0+PuAyzmSRzvOvyHQYvgmPhmJyW4Od08IRhO5cFuneLU3kA55zRD9wLNhyZgy4HC4RMOvh5EQKnNroWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabou\\Desktop\\Documents\\Portfolio\\Projet_Comunication_TCP\\AskGodClient\\AskGodClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabou\\.nuget\\packages\\heyes.getopt\\1.0.9\\heyes.getopt.1.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
